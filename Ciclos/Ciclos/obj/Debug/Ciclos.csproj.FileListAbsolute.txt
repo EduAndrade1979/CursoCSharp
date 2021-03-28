@@ -1,0 +1,7 @@
+C:\Curso\Ciclos\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Curso\Ciclos\Ciclos\bin\Debug\Ciclos.exe
+C:\Curso\Ciclos\Ciclos\bin\Debug\Ciclos.pdb
+C:\Curso\Ciclos\Ciclos\obj\Debug\Ciclos.csprojAssemblyReference.cache
+C:\Curso\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Curso\Ciclos\Ciclos\obj\Debug\Ciclos.exe
+C:\Curso\Ciclos\Ciclos\obj\Debug\Ciclos.pdb

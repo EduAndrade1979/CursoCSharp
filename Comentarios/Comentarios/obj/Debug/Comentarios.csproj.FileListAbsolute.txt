@@ -1,0 +1,7 @@
+C:\Curso\Comentarios\Comentarios\bin\Debug\Comentarios.exe.config
+C:\Curso\Comentarios\Comentarios\bin\Debug\Comentarios.exe
+C:\Curso\Comentarios\Comentarios\bin\Debug\Comentarios.pdb
+C:\Curso\Comentarios\Comentarios\obj\Debug\Comentarios.csprojAssemblyReference.cache
+C:\Curso\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
+C:\Curso\Comentarios\Comentarios\obj\Debug\Comentarios.exe
+C:\Curso\Comentarios\Comentarios\obj\Debug\Comentarios.pdb

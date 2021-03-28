@@ -1,0 +1,7 @@
+C:\Curso\Colecao (Array)\Colecao (Array)\bin\Debug\Colecao (Array).exe.config
+C:\Curso\Colecao (Array)\Colecao (Array)\bin\Debug\Colecao (Array).exe
+C:\Curso\Colecao (Array)\Colecao (Array)\bin\Debug\Colecao (Array).pdb
+C:\Curso\Colecao (Array)\Colecao (Array)\obj\Debug\Colecao (Array).csprojAssemblyReference.cache
+C:\Curso\Colecao (Array)\Colecao (Array)\obj\Debug\Colecao (Array).csproj.CoreCompileInputs.cache
+C:\Curso\Colecao (Array)\Colecao (Array)\obj\Debug\Colecao (Array).exe
+C:\Curso\Colecao (Array)\Colecao (Array)\obj\Debug\Colecao (Array).pdb

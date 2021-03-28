@@ -1,0 +1,7 @@
+C:\Curso\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Curso\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Curso\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.csprojAssemblyReference.cache
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
