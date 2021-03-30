@@ -32,13 +32,28 @@ namespace MetodosDasClasses
             //Console.WriteLine("Valor2 = " + valor2);
             #endregion
 
-            string nomeCompleto = m.MontaNome("Marta", "Andrade");
-            int cod = m.CodigoChar('a');
-            double pi = m.ValorPI();
+            #region Métodos com retorno de valores
+            //string nomeCompleto = m.MontaNome("Marta", "Andrade");
+            //int cod = m.CodigoChar('a');
+            //double pi = m.ValorPI();
 
-            Console.WriteLine(nomeCompleto);
-            Console.WriteLine(cod);
-            Console.WriteLine(pi);
+            //Console.WriteLine(nomeCompleto);
+            //Console.WriteLine(cod);
+            //Console.WriteLine(pi);
+            #endregion
+
+            #region Sobrecarga de métodos (Overloading)
+            //m.Cumprimentar();
+            //m.Cumprimentar("Mike");
+            //m.Cumprimentar("Mangini", 21);
+
+            //bool comp = m.Comparar(40, (20 * 2)); // Necessário atribuir á uma variavel 
+            //                          // porque o método não imprime. (Console.Write...)
+            //bool comp1 = m.Comparar("Portnoy", "portnoy"); // Idem ao caso anterior!!
+
+            //Console.WriteLine(comp);
+            //Console.WriteLine(comp1);
+            #endregion
 
             Console.ReadKey();
         }

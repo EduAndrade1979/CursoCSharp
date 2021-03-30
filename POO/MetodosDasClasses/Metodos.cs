@@ -73,5 +73,46 @@ namespace MetodosDasClasses
         {
             return 3.1415;
         }
+
+        //_____________________________________________________________________________________
+
+        // Sobrecarga de métodos
+
+        public void Cumprimentar(string nome) // Sobrecarga - Significa que o método foi reinstanciado, 
+                                              // porém, com uma outra assinatura (parametro).
+        {
+            Console.WriteLine("Olá, " + nome + ", seja bem vindo!");
+        }
+
+        public void Cumprimentar(string nome, int hora) // Outra assinatura para o mesmo método
+        {
+            if (hora >= 0 && hora < 12) {
+                Console.WriteLine("Bom dia " + nome + ", seja bem vindo!");
+            }
+            else if (hora >= 12 && hora < 18)
+            {
+                Console.WriteLine("Boa tarde " + nome + ", seja bem vindo!");
+            }else if (hora >= 18 && hora <= 24)
+            {
+                Console.WriteLine("Boa noite " + nome + ", seja bem vindo!");
+            }
+            else
+            {
+                Console.WriteLine(nome + ", seja bem vindo!");
+            }            
+        }
+
+        public bool Comparar(int num1, int num2)
+        {
+            
+            return num1 == num2;
+        }
+
+        public bool Comparar(string txt1, string txt2)
+        {
+
+            return txt1 == txt2;
+        }
+
     }
 }
