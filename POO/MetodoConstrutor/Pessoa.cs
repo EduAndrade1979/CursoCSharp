@@ -25,7 +25,31 @@ namespace MetodoConstrutor
             idade = 0;
         }
 
-        
+        public Pessoa(string nome, string sobrenome, int anoNascimento) 
+            // Sobrecarga do método construtor, definindo assinatura
+            // referenciando os campos da classe (THIS)
+            
+        {
+            this.nome = nome;
+            this.sobrenome = sobrenome;
+            this.anoNascimento = anoNascimento;
+            idade = Idade();
+        }
+
+        private int Idade()
+        {
+            return (2021 - anoNascimento);
+        }
+
+        public Pessoa(string nome, string sobrenome)        
+
+        {
+            this.nome = nome;
+            this.sobrenome = sobrenome;
+            this.anoNascimento = 2003;
+            idade = Idade();
+        }
+
     }   
     
 }
